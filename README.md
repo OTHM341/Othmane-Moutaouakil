@@ -76,18 +76,6 @@ An academic e-commerce application developed to explore software engineering and
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=OTHM341&show_icons=true&theme=tokyonight&hide_border=true"
-       alt="GitHub Statistics" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTHM341&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   <i>Building, learning, and improving — one project at a time.</i>
