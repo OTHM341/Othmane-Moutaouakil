@@ -1,10 +1,10 @@
 # Hi, I'm Othmane Moutaouakil 👋
 
-### Computer Engineering Graduate | Full-Stack Developer
+### Computer Engineering Graduate | Full-Stack Developer | AI Enthusiast
 
-I'm a Computer Engineering graduate from EMSI, Morocco, passionate about software engineering and web development.
+I'm a Computer Engineering graduate from EMSI, Morocco, passionate about software engineering, full-stack development, and artificial intelligence.
 
-I enjoy building practical applications, developing backend services, designing user interfaces, and working with data-driven solutions.
+I enjoy designing and building practical applications, developing scalable backend services, creating modern user interfaces, and exploring AI-powered solutions.
 
 ---
 
@@ -12,8 +12,9 @@ I enjoy building practical applications, developing backend services, designing 
 
 - 🎓 Computer Engineering Graduate – EMSI
 - 💻 Interested in Full-Stack Development and Software Engineering
-- 🌱 Currently improving my skills in modern web technologies
-- 🚀 Building projects that combine frontend, backend, and database technologies
+- 🤖 Exploring Artificial Intelligence, LLMs, and AI-powered applications
+- 🚀 Building web applications and intelligent software solutions
+- 🌱 Continuously learning and improving my technical skills
 - 📍 Based in Morocco
 - 📧 Contact: **othmanemtk662@gmail.com**
 
@@ -29,6 +30,7 @@ I enjoy building practical applications, developing backend services, designing 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 **Backend Development**
@@ -37,16 +39,24 @@ I enjoy building practical applications, developing backend services, designing 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-**Databases & Data**
+**Artificial Intelligence & Data**
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+**Databases**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 </p>
 
 **Tools & Environment**
@@ -54,6 +64,7 @@ I enjoy building practical applications, developing backend services, designing 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
@@ -62,20 +73,53 @@ I enjoy building practical applications, developing backend services, designing 
 
 ## Featured Projects
 
-### EMSI Bot
+### ✈️ Reporting CAMO
 
-An AI-powered Telegram chatbot built with Java, Spring Boot, and Spring AI, integrating OpenAI and Model Context Protocol (MCP).
+A full-stack aviation management and reporting application designed to manage aircraft operations, technical activities, and maintenance-related information.
 
-### NexaShop
+**Technologies:** Java, Spring Boot, Spring Security, React, PostgreSQL, JWT.
 
-An e-commerce web application focused on online shopping and web application development.
+### 🛍️ NexaShop
 
-### ShopSphere
+An e-commerce web application focused on providing a modern online shopping experience with product browsing and shopping management features.
 
-An academic e-commerce application developed to explore software engineering and online commerce concepts.
+### 🛒 ShopSphere
+
+An e-commerce application developed to explore modern web development, online shopping workflows, and software engineering concepts.
+
+### 🤖 EMSI Bot
+
+An AI-powered Telegram chatbot designed to assist EMSI students through intelligent conversations and academic information retrieval.
+
+**Technologies:** Java, Spring Boot, Spring AI, OpenAI API, Model Context Protocol (MCP).
+
+### 🧠 Omex AI
+
+An artificial intelligence project focused on exploring intelligent applications and AI-powered solutions.
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OTHM341&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTHM341&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://github.com/OTHM341">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:othmanemtk662@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <i>Building, learning, and improving — one project at a time.</i>
