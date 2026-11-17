@@ -97,14 +97,6 @@ An AI-powered Telegram chatbot designed to assist EMSI students through intellig
 
 An artificial intelligence project focused on exploring intelligent applications and AI-powered solutions.
 
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OTHM341&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTHM341&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
 
 ---
 
